@@ -1,2 +1,4 @@
 # BI
-Business Intelligence Transformation Framework, Considerations, 
+
+
+This repository captures consideration, framework needed for Business Intelligence Tranformation 
